@@ -1,0 +1,2 @@
+# day6
+ADDING DAY6 ON GITHUB
